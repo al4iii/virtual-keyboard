@@ -10,6 +10,14 @@
   transition: bottom 0.4s;
 }
 
+.use-keyboard-input{
+  position: absolute;
+  top: 250px; 
+  left: 40px; 
+  width: 300px;
+  height: 100px;
+}
+
 .keyboard--hidden {
   bottom: -100%;
 }
